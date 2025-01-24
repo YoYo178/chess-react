@@ -21,7 +21,6 @@
 }
 
 .navbar-logo {
-    background-color: transparent;
 
     width: 8rem;
 
@@ -31,7 +30,6 @@
 }
 
 .navbar-list {
-    background-color: transparent;
 
     display: flex;
     align-items: center;
@@ -79,7 +77,6 @@
 
 .navbar-item-text {
     color: var(--text-color);
-    background-color: transparent;
 
     font-family: "Exo", serif;
     font-optical-sizing: auto;
@@ -113,7 +110,6 @@
 
 .sign-in-btn-text {
     color: var(--text-color);
-    background-color: transparent;
 
     font-family: "Exo", serif;
     font-optical-sizing: auto;
