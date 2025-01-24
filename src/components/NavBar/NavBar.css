@@ -136,3 +136,23 @@
     scale: 120%;
     cursor: pointer;
 }
+
+@media only screen and (max-width: 976px) {
+    .navbar-list {
+        display: none;
+    }
+
+    .hamburger-menu {
+        display: inline;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .sign-in-btn {
+        display: none;
+    }
+
+    .hamburger-menu {
+        margin-left: auto;
+    }
+}
