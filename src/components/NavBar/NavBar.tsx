@@ -22,6 +22,8 @@ function NavBar() {
             <div className="sign-in-btn" onClick={ButtonHandler.signIn}>
                 <p className="sign-in-btn-text">Sign In</p>
             </div>
+
+            <div className="hamburger-menu">☰</div>
         </nav>
     )
 }
