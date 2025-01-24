@@ -3,7 +3,6 @@
     --button-bg-color: #fac736;
     --hover-button-bg-color: #f7b709;
     --text-color: black;
-    --border-color: transparent;
 }
 
 .navbar {
@@ -11,7 +10,6 @@
 
     margin: 10px;
 
-    border: 4px solid var(--border-color);
     border-radius: 10px;
 
     display: flex;
@@ -51,7 +49,6 @@
     justify-content: center;
     align-items: center;
 
-    border: 1px solid var(--border-color);
     border-radius: 10px;
 
     position: relative;
@@ -97,7 +94,6 @@
     margin-left: auto;
     margin-right: 40px;
 
-    border: 3px solid var(--border-color);
     border-radius: 10px;
 
     display: flex;
