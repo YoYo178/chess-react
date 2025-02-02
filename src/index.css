@@ -5,6 +5,13 @@
   padding: 0;
 }
 
+:root {
+  --bg-color: #4cc1cc;
+  --button-bg-color: #fac736;
+  --hover-button-bg-color: #f7b709;
+  --text-color: black;
+}
+
 body {
-  background-color: #252525;
+  background-color: #40434e;
 }
